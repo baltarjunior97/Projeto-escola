@@ -1,2 +1,2 @@
 # Projeto-escola
-projeto site e api escola feito com javascript e react do curso de js do Luiz Otavio 
+Projeto site e API escola do curso js do Luiz Otavio Miranda
